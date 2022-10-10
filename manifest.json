@@ -1,0 +1,18 @@
+{
+  "background_color": "#0b1216",
+  "description": "App para direcionamento para qual suplemento tomar e mapa de locais para compra",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Birl",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Birl",
+  "start_url": "/",
+  "theme_color": "#fbfbfa",
+  "categories": [
+    "health"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
